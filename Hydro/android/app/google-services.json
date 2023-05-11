@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "621246420011",
+    "project_id": "hydro-bdcac",
+    "storage_bucket": "hydro-bdcac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621246420011:android:0d81d32aab73085ce5866e",
+        "android_client_info": {
+          "package_name": "flutter.hydro.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621246420011-tvm05gas3ntqandfk259tnbl3ijl1v8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-7CLnKUgcLpw-LF7m5IZwylBXCZIFSd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621246420011-tvm05gas3ntqandfk259tnbl3ijl1v8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621246420011-qpjn9qfm14m2kseubi5pqjfp9vh2bno2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "flutter.hydro.project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
